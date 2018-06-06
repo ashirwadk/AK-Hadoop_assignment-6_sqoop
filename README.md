@@ -1,0 +1,1 @@
+# AK-Hadoop_assignment-6_sqoop
